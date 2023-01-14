@@ -1,0 +1,3 @@
+systeminit.c:16:13:configure_clock	4	static
+systeminit.c:61:6:configure_mco1	4	static
+systeminit.c:85:6:SystemInit	8	static
