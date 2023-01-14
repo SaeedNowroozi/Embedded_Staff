@@ -27,6 +27,7 @@
 
 int main(void)
 {
+	// git log
    log_info("Info Encro");
    usbd_initialize();
 	for(;;);
